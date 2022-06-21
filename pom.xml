@@ -8,10 +8,10 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.myapp.employee</groupId>
-	<artifactId>Employee</artifactId>
+	<groupId>com.myapp.mcdonalds</groupId>
+	<artifactId>Mcdonalds</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employee</name>
+	<name>mcdonalds</name>
 	<description>Spring boot crud operaition with H2 DB</description>
 	<properties>
 		<java.version>1.8</java.version>
